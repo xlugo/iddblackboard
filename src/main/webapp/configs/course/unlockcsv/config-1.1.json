@@ -1,0 +1,16 @@
+{
+  "idFileDomHtml" : "file",
+  "maxFileSizeKb" : "10",
+  "inputFileHtmlId" : "file",
+  "fileBtnId" : "btn_exec",
+  "fileBtnSpanTxt" : "idd_btn_exec_txt",
+  "fileFormId" : "frm_exec",
+  "fileUploadController" : "readfile",
+  "unlockCourseController" : "unlockcourse",
+  "divNotifHtmlId" : "idd_alert_div",
+  "spanNotifHtmlId" : "idd_alert_msj",
+  "checkFile" : true,
+  "reqFileType" : "\\.csv$",
+  "btnUCourseTxt" : "Enviar datos"
+
+}
